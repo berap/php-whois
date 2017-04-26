@@ -2945,7 +2945,8 @@
     ],
     "ru": [
         "whois.ripn.net",
-        "No entries found"
+        "No entries found",
+        60,30
     ],
     "ruhr": [
         "whois.nic.ruhr",
